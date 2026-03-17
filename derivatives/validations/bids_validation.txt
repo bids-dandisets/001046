@@ -1,6 +1,6 @@
 	[WARNING] SUBJECT_FOLDERS There are no subject directories (labeled "sub-*") in the root of this BIDS dataset.
 
-		/dataset_description.json - rules.checks.dataset.SubjectFolders
+		/dataset_description.json
 
 	Please visit https://neurostars.org/search?q=SUBJECT_FOLDERS for existing conversations about this issue.
 
@@ -12,7 +12,7 @@ Valid keys in each object include `"URL"`, `"DOI"` (see
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
- - rules.dataset_metadata.dataset_description
+
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
 
